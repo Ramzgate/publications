@@ -1,5 +1,5 @@
 
-## Pricing Models
+## Fair Value Pricing Models
 1. [Dynamic Principal Market Determination: Fair Value Measurement of Cryptocurrency, JAAF 2021](https://github.com/Ramzgate/publications/blob/main/Dynamic_Principal_Market_2021.pdf)
 2. [Fair Value Measurement in Inactive Crypto Asset Markets, JAAF 2023](https://github.com/Ramzgate/publications/blob/main/Inactive_Crypto_Markets_2023.pdf)
 
